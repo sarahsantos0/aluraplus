@@ -1,5 +1,4 @@
-# aluraplus
-Primeiro projeto de website junto com a Alura.
+
 # Alura Plus Website Project 👩‍💻
 
 Olá! Seja bem-vindo(a) ao meu primeiro projeto de website, desenvolvido durante o curso de HTML and CSS da Alura! 🌟
